@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jinfei-lab/simple-theme.git"
   },
   "contributes": {
     "themes": [
