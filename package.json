@@ -1,0 +1,25 @@
+{
+  "name": "simple-theme",
+  "displayName": "simple-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Simple Theme-color-theme.json"
+      }
+    ]
+  }
+}
