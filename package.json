@@ -14,6 +14,15 @@
     "type": "git",
     "url": "https://github.com/jinfei-lab/simple-theme.git"
   },
+  "keywords": [
+    "theme",
+    "light",
+    "simple light",
+    "simple theme",
+    "simple",
+    "light theme",
+    "JF-Lab-Light-Theme"
+  ],
   "contributes": {
     "themes": [
       {
