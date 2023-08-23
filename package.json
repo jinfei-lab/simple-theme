@@ -1,7 +1,8 @@
 {
-  "name": "simple-theme",
+  "name": "github-simple-light",
   "displayName": "simple-theme",
   "description": "",
+  "publisher": "lighttheme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"

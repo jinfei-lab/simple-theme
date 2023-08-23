@@ -12,7 +12,7 @@
     "activityBar.border": "#ffffff",
     "activityBar.background": "#ffffff",
     "activityBar.foreground": "#000000",
-    "activityBarBadge.background": "#1677ff",
+    "activityBarBadge.background": "#000000",
     // status bar
     "statusBar.border": "#ffffff",
     "statusBar.background": "#ffffff",
@@ -29,22 +29,22 @@
     "tab.activeBackground": "#ffffff",
     "tab.inactiveBackground": "#ffffff",
     "tab.border": "#ffffff",
-    "tab.activeBorder": "#1677ff",
+    "tab.activeBorder": "#d73a49",
     // side bars
     "sideBar.border": "#ffffff",
     "sideBar.background": "#ffffff",
     "sideBar.foreground": "#000000",
     "sideBarSectionHeader.background": "#ffffff",
     // list
-    "list.highlightForeground": "#1677ff",
+    "list.highlightForeground": "#d73a49",
     "list.activeSelectionBackground": "#eeeeee",
-    "list.activeSelectionForeground": "#1677ff",
+    "list.activeSelectionForeground": "#d73a49",
     "list.inactiveSelectionBackground": "#eeeeee",
-    "list.inactiveSelectionForeground": "#1677ff",
+    "list.inactiveSelectionForeground": "#d73a49",
     "list.hoverBackground": "#eeeeee",
-    "list.hoverForeground": "#1677ff",
+    "list.hoverForeground": "#d73a49",
     "list.focusBackground": "#eeeeee",
-    "list.focusForeground": "#1677ff",
+    "list.focusForeground": "#d73a49",
     // editor
     "editor.lineHighlightBackground": "#fffbdf",
     "editor.lineHighlightBorder": "#fffbdf",
@@ -66,7 +66,7 @@
     "notifications.background": "#ffffff",
     "notifications.border": "#ffffff",
     // button
-    "button.background": "#1677ff",
+    "button.background": "#d73a49",
     "button.foreground": "#ffffff",
     // titlebar
     "titleBar.border": "#ffffff",
@@ -77,7 +77,7 @@
     // editor widget
     "editorWidget.background": "#ffffff",
     "editorWidget.border": "#000000",
-    "editorSuggestWidget.highlightForeground": "#1677ff",
+    "editorSuggestWidget.highlightForeground": "#d73a49",
     "editorSuggestWidget.selectedBackground": "#f0f0f0",
     // panel
     "panel.border": "#eeeeee"
@@ -131,14 +131,14 @@
     {
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#1677ff"
+        "foreground": "#d73a49"
       },
       "name": "Keyword"
     },
     {
       "scope": ["storage", "storage.type"],
       "settings": {
-        "foreground": "#1677ff"
+        "foreground": "#d73a49"
       },
       "name": "Storage"
     },
@@ -222,7 +222,7 @@
       "scope": ["carriage-return"],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#1677ff"
+        "foreground": "#d73a49"
       },
       "name": "Carriage Return"
     },
