@@ -29,7 +29,7 @@
     "tab.activeBackground": "#ffffff",
     "tab.inactiveBackground": "#ffffff",
     "tab.border": "#ffffff",
-    "tab.activeBorder": "#d73a49",
+    "tab.activeBorder": "#000000",
     // side bars
     "sideBar.border": "#ffffff",
     "sideBar.background": "#ffffff",
